@@ -1,4 +1,4 @@
-/*UC7-
+*UC7-
 store daily wages along with total wages
 */
 const IS_PART_TIME = 1;
